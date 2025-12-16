@@ -102,9 +102,11 @@ The platform ensures clean UI, smooth animations, protected routing, and optimiz
 - React Awesome Reveal  
 - React Simple Typewriter  
 
-### Server / Backend
-- Next.js Route Handlers  
+### Authentication
 - Next-Auth (OAuth + Credentials)  
+
+### Server / Backend
+- MongoDB
 
 ### Hosting
 - Vercel
