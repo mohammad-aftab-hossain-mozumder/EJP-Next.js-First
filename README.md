@@ -93,8 +93,7 @@ The platform ensures clean UI, smooth animations, protected routing, and optimiz
 
 ### Frontend
 - Next.js 16 (App Router)
-- React 19
-- TailwindCSS v4  
+- TailwindCSS  
 - DaisyUI  
 - Swiper  
 - React Icons  
